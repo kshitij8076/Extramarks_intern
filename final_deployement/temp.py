@@ -631,7 +631,7 @@ def show_prompt_structure():
 
 if __name__ == "__main__":
     # Example usage
-    API_KEY = "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"
+    API_KEY = "sk-proj-jdYN3h-nWsnYQk60nsl-cUFeYuarcWUNkA"
     
     # Initialize handler
     handler = GPT4OVisionHandler(API_KEY)

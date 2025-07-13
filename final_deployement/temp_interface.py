@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # HARDCODED API KEY - Replace with your actual API key
-API_KEY = "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"  # REPLACE THIS WITH YOUR ACTUAL API KEY
+API_KEY = "sk-proj-ayJpqqcZIdIGoLIjI1HobyLZyAGj_A"  # REPLACE THIS WITH YOUR ACTUAL API KEY
 
 # Custom CSS for better styling - FIXED TEXT COLOR ISSUE
 st.markdown("""
